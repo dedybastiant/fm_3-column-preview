@@ -69,7 +69,7 @@ button:hover {
   border-radius: 0 10px 10px 0;
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 500px) {
   .card-container {
     width: 90vw;
     height: 90rem;
